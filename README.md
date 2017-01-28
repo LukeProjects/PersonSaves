@@ -8,5 +8,5 @@ To save a POF (Person Object File) click the ``Saver`` Button
 To get the data of a POF (Person Object File) click the ``Getter`` Button  
   
 ## Credits:  
-- @lukecywon (Main Coder)
+- [@lukecywon](@lukecywon) (Main Coder)
 - Netbeans IDE (The IDE used to develop this project)
